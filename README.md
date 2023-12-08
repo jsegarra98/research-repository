@@ -4,6 +4,6 @@ This is my Research Repository where I put all of the things I am inspired from,
 
 ## Table of Contents
 
-[MyCodes](./MyCodes/): My original codes
-[InspiredCodes](./InspiredCodes/): Codes I've been inspired by or practiced
-[InterestingStuff](./InterestingStuff/): Things I find interesting or don't understand
+- [MyCodes](./MyCodes/): My original codes
+- [InspiredCodes](./InspiredCodes/): Codes I've been inspired by or practiced
+- [InterestingStuff](./InterestingStuff/): Things I find interesting or don't understand
